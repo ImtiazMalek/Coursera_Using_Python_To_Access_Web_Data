@@ -1,0 +1,19 @@
+Extracting data with python
+1. regular expresion 
+2. socket
+3. urllib
+4. encodeing(), decoding()
+>>
+>>
+computer(unicode) <--- decode(byte) <--- server (utf- 8)
+_
+_						^
+_						.
+_						.
+_computer(unicode) --> encode(byte) -----> server (utf- 8)
+
+5. Scraping/ crawling the web / spidering the web (searching web for a perticular information)
+6. beautiful soup (in order to correct HTML errors to retrive clean data)
+7. XML
+8. JSON
+8. serialize , de- serialize 
